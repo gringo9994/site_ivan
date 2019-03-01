@@ -79,7 +79,7 @@ display: block;
 }
 
 .photo {
-float: center;
+float: left;
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
